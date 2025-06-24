@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArvoreDeHeranca/ArvoreDeHeranca.iml" filepath="$PROJECT_DIR$/ArvoreDeHeranca/ArvoreDeHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtribuindoVetor/AtribuindoVetor.iml" filepath="$PROJECT_DIR$/AtribuindoVetor/AtribuindoVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraIdade/CalculadoraIdade.iml" filepath="$PROJECT_DIR$/CalculadoraIdade/CalculadoraIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculoFatorial/CalculoFatorial.iml" filepath="$PROJECT_DIR$/CalculoFatorial/CalculoFatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstrutorArray/ConstrutorArray.iml" filepath="$PROJECT_DIR$/ConstrutorArray/ConstrutorArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControleRemoto/ControleRemoto.iml" filepath="$PROJECT_DIR$/ControleRemoto/ControleRemoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equacao2Grau/Equacao2Grau.iml" filepath="$PROJECT_DIR$/Equacao2Grau/Equacao2Grau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXApplicationTeste/JavaFXApplicationTeste.iml" filepath="$PROJECT_DIR$/JavaFXApplicationTeste/JavaFXApplicationTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplasClasses/MultiplasClasses.iml" filepath="$PROJECT_DIR$/MultiplasClasses/MultiplasClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaX/OlaMundoJavaX.iml" filepath="$PROJECT_DIR$/OlaMundoJavaX/OlaMundoJavaX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PegarHora&amp;Data/PegarHora&amp;Data.iml" filepath="$PROJECT_DIR$/PegarHora&amp;Data/PegarHora&amp;Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolimorfismoSobreposicao/PolimorfismoSobreposicao.iml" filepath="$PROJECT_DIR$/PolimorfismoSobreposicao/PolimorfismoSobreposicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" filepath="$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoLivro/ProjetoLivro.iml" filepath="$PROJECT_DIR$/ProjetoLivro/ProjetoLivro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste.Banco/Teste.Banco.iml" filepath="$PROJECT_DIR$/Teste.Banco/Teste.Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testes/Testes.iml" filepath="$PROJECT_DIR$/Testes/Testes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestesJavaSwing/TestesJavaSwing.iml" filepath="$PROJECT_DIR$/TestesJavaSwing/TestesJavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathRandom/mathRandom.iml" filepath="$PROJECT_DIR$/mathRandom/mathRandom.iml" />
+    </modules>
+  </component>
+</project>

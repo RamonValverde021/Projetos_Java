@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ContaBancaria">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ContaBancaria/dist/ContaBancaria.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

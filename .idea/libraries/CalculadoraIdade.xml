@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculadoraIdade">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CalculadoraIdade/dist/CalculadoraIdade.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

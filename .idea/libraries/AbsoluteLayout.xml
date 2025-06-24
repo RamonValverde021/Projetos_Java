@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Equacao2Grau/lib/absolutelayout/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
